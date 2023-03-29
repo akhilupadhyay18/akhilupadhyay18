@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilupadhyay18&show_icons=true&locale=en" alt="akhilupadhyay18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilupadhyay18&" alt="akhilupadhyay18" /></p>
+
+<h3 align="center">
+<img src="https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg">
+</h3>
