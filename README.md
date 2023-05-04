@@ -1,5 +1,5 @@
 ![github-header-image](https://user-images.githubusercontent.com/122203952/225990673-2ee90eda-d1a6-4aab-bd9e-c6def1bd442b.png)
-<h1 align="center">Hi 👋, I'm Akhil</h1>
+<h1 align="center">Hi, I'm Akhil</h1>
 <h3 align="center">A passionate Coder and Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -32,3 +32,4 @@
 <h3 align="center">
 <img src="https://github.com/akhilupadhyay18/akhilupadhyay18/blob/main/github-user-contribution.svg">
 </h3>
+//README page
