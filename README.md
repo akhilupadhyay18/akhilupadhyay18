@@ -30,6 +30,6 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilupadhyay18&" alt="akhilupadhyay18" /></p> -->
 
 <h3 align="center">
-<img src="https://github.com/akhilupadhyay18/akhilupadhyay18/blob/main/github-user-contribution.svg">
+<!-- <img src="https://github.com/akhilupadhyay18/akhilupadhyay18/blob/main/github-user-contribution.svg"> -->
 </h3>
 
