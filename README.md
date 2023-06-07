@@ -29,7 +29,10 @@
 <hr>
 <h1 align="center">📈 GitHub Contribution Graph</h1>
 
-[![Akhil github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akhilupadhyay18&theme=github)](https://github.com/akhilupadhyay18/github-readme-activity-graph)
+<!-- [![Akhil github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akhilupadhyay18&theme=github)](https://github.com/akhilupadhyay18/github-readme-activity-graph) -->
+
+[![Akhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akhilupadhyay18&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <hr>
 
