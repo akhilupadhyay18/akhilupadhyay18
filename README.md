@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently focusing on **DSA & Machine Learning**
 
--  👨‍💻 My Portfolio Website - [Portfolio](https://akhilupadhyay18.github.io/Akhil_Portfolio/)
+-  👨‍💻 My Portfolio Website - [Portfolio](https://akhilupadhyay18.github.io/Portfolio/)
 
 - 💬 Ask me about **MERN**
 
